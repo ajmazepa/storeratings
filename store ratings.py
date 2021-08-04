@@ -1,7 +1,7 @@
 import time
 import requests
 import csv
-import csv
+
 from bs4 import BeautifulSoup
 
 #Read the CSV file to get store addresses
